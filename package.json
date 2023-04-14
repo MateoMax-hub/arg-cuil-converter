@@ -1,0 +1,22 @@
+{
+  "name": "dni-converter",
+  "version": "1.0.0",
+  "description": "arg dni converter to cuil with dni and gender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoMax-hub/arg-cuil-converter.git"
+  },
+  "keywords": [
+    "CUIL"
+  ],
+  "author": "Mateo Gabriel Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateoMax-hub/arg-cuil-converter/issues"
+  },
+  "homepage": "https://github.com/MateoMax-hub/arg-cuil-converter#readme"
+}
